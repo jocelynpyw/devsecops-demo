@@ -4,10 +4,6 @@
 
 ![image](https://github.com/user-attachments/assets/5b2813a5-f493-4665-8964-77359b5be93a)
 
-![image](https://github.com/user-attachments/assets/65db4415-f92e-43ac-8b51-92c7b007096c)
-
-![image](https://github.com/user-attachments/assets/5172c45f-caf1-4483-881f-dda1dd1c963a)
-
 ## Features
 
 - 🎮 Fully functional Tic Tac Toe game
@@ -91,4 +87,9 @@ yarn build
 ```
 
 The build artifacts will be stored in the `dist/` directory.
+
+![image](https://github.com/user-attachments/assets/65db4415-f92e-43ac-8b51-92c7b007096c)
+
+![image](https://github.com/user-attachments/assets/5172c45f-caf1-4483-881f-dda1dd1c963a)
+
 
